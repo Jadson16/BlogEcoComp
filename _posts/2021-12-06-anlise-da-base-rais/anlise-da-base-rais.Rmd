@@ -3,7 +3,7 @@ title: "Análise da base RAIS"
 description: |
   Análise do salarial utilizando a base da RAIS.
 author:
-  - name: Nora Jones
+  - name: Jadson Pessoa
     url: https://example.com/norajones
 date: 2021-12-06
 output:
