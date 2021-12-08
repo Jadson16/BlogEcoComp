@@ -1,0 +1,56 @@
+---
+title: "Analisando dados da RAIS na prática"
+description: |
+  A short description of the post.
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 2021-12-07
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Nesse relatório buscando responder a seguinte pergunta:
+
+Quanto ganha um cientístita de dados?
+
+Para isso vamos utilizar a base de dados da RAIS.
+
+# Acessando os dados da RAIS
+
+
+Vamos utilizar o datalake da iniciativa [Base dos Dados](https://basedosdados.org/dataset/br-me-rais).
+
+```{r warning=FALSE}
+# Biblioteca
+library(bigrquery)
+library(dplyr)
+
+```
+
+
+Abaixo está o código que carrega as primeiras 5 linhas da tabela de microdados.
+
+
+```{r}
+conexao <- dbConnect(
+  bigquery(),
+  project = "basedosdados",
+  dataset = "br_me_rais",
+  billing = "meu projeto curso r"
+)
+
+head(select(tbl(conexao, "microdados_vinculos"), everything()), 5)
+
+
+
+```
+
+

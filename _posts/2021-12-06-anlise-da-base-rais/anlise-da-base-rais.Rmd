@@ -4,20 +4,19 @@ description: |
   Análise do salarial utilizando a base da RAIS.
 author:
   - name: Jadson Pessoa
-    url: https://example.com/norajones
+    url: https://example.com/jadsonpessoa
 date: 2021-12-06
 output:
   distill::distill_article:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Apresentação
+
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
-
-

@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-12-07-analiseraisreal/",
+    "title": "Analisando dados da RAIS na prática",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-12-07",
+    "categories": [],
+    "contents": "\nNesse relatório buscando responder a seguinte pergunta:\nQuanto ganha um cientístita de dados?\nPara isso vamos utilizar a base de dados da RAIS.\nAcessando os dados da RAIS\nVamos utilizar o datalake da iniciativa Base dos Dados.\n\n\n\nAbaixo está o código que carrega as primeiras 5 linhas da tabela de microdados.\n\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-07T21:24:42-03:00",
+    "input_file": "analiseraisreal.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Prof. Jadson Pessoa",
     "description": "Welcome to our new blog, Prof. Jadson Pessoa. We hope you enjoy \nreading what we have to say!",
@@ -22,15 +39,15 @@
     "description": "Análise do salarial utilizando a base da RAIS.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Jadson Pessoa",
+        "url": "https://example.com/jadsonpessoa"
       }
     ],
     "date": "2021-12-06",
     "categories": [],
-    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "contents": "\nApresentação\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-12-06T21:58:49-03:00",
+    "last_modified": "2021-12-07T19:47:19-03:00",
     "input_file": "anlise-da-base-rais.knit.md"
   }
 ]
