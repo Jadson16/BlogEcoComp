@@ -44,12 +44,13 @@ conexao <- dbConnect(
   bigquery(),
   project = "basedosdados",
   dataset = "br_me_rais",
-  billing = "meu projeto curso r"
+  billing = "meu-projeto-curso-r"
 )
 
-head(select(tbl(conexao, "microdados_vinculos"), everything()), 5)
+primeiras_linhas <- head(select(tbl(conexao, "microdados_vinculos"), everything()), 5)
 
 
+knitr::kable(primeiras_linhas)
 
 ```
 
