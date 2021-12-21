@@ -3,10 +3,13 @@ title: "Prof. Jadson Pessoa"
 description: |
   Prof. Jadson Pessoa
 output_dir: "docs"
+theme: my-css.css
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Estatística"
+      href: estatistica.html
 output: distill::distill_article

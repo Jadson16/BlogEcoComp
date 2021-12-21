@@ -13,7 +13,21 @@
       "title": "Prof. Jadson Pessoa",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-12-06T21:37:02-03:00"
+      "last_modified": "2021-12-21T13:48:43-03:00"
+    },
+    {
+      "path": "meu-artigo.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2021-12-11T07:19:22-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

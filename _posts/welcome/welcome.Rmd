@@ -1,14 +1,12 @@
 ---
 title: "Welcome to Prof. Jadson Pessoa"
 description: |
-  Welcome to our new blog, Prof. Jadson Pessoa. We hope you enjoy 
-  reading what we have to say!
+  Bem-vindo ao blog do Prof. Jadson Pessoa. O meu blog tem como objetivo disponibilibizar material de estudo na área de macroeconomia, economia monetária e mercado financeiro. Além de temas relacionados a metodologia científica e sistemas complexos. E mais recentimente temas relacionados a Ciência de Dados, tais como, linguagem R e Python, estatística e econometria.    
 author:
   - name: Jadson Pessoa 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 12-06-2021
+    affiliation: Universidade Federal do Maranhão (UFMA)
+    affiliation_url: https://portalpadrao.ufma.br/
+date: 12-21-2021
 output:
   distill::distill_article:
     self_contained: false
