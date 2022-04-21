@@ -1,0 +1,22 @@
+---
+title: "Analise TS"
+description: |
+  Analise series estatisticas
+author:
+  - name: Jadson Pessoa
+date: 2022-04-21
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

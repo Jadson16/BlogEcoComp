@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-04-21-analise-ver/",
+    "title": "Analise VEC",
+    "description": "Uma analise em VEC",
+    "author": [
+      {
+        "name": "Jadson Pessoa",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-21",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-04-21T15:04:23-03:00",
+    "input_file": "analise-ver.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Prof. Jadson Pessoa",
     "description": "Bem-vindo ao blog do Prof. Jadson Pessoa. O meu blog tem como objetivo disponibilibizar material de estudo na área de macroeconomia, economia monetária e mercado financeiro. Além de temas relacionados a metodologia científica e sistemas complexos. E mais recentimente temas relacionados a Ciência de Dados, tais como, linguagem R e Python, estatística e econometria.",
