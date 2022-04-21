@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Prof. Jadson Pessoa"
 description: |
-  Bem-vindo ao blog do Prof. Jadson Pessoa. O meu blog tem como objetivo disponibilibizar material de estudo na área de macroeconomia, economia monetária e mercado financeiro. Além de temas relacionados a metodologia científica e sistemas complexos. E mais recentimente temas relacionados a Ciência de Dados, tais como, linguagem R e Python, estatística e econometria.    
+  Bem-vindo ao blog do Prof. Jadson Pessoa. O meu blog tem como objetivo disponibilibizar material de estudo na área de macroeconomia, economia monetária e mercado financeiro. Além de temas relacionados a metodologia científica e sistemas complexos. E mais recentimente temas relacionados a Ciência de Dados, tais como, linguagem R e Python, estatística e econometria.   
 author:
   - name: Jadson Pessoa 
     affiliation: Universidade Federal do Maranhão (UFMA)

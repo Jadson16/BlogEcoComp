@@ -1,0 +1,9 @@
+---
+title: "Temas de Estatistica"
+description: |
+  Aqui vou colocar os temas relacionados a estatistica e econometria
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
